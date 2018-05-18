@@ -1,0 +1,3 @@
+let info = {
+  name:'chengang'
+}
