@@ -1,3 +1,4 @@
 let info = {
-  name:'chengang'
+  name:'chengang',
+  sex:'man'
 }
